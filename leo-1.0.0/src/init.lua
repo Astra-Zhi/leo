@@ -10,6 +10,7 @@ leo.Summary = require "leo.Summary" -- Summary() - Create a Summary Object
 leo.Which = require "leo.Which" -- Which() - Create a Which Object
 leo.Is_na = require "leo.Is_na" -- Is_na() - Create an Is_na Object
 leo.Na_omit = require "leo.Na_omit" -- Na_omit() - Create a Na_omit Object
-leo.Narm = require "leo.Narm" -- Narm() - Create a Narm Object
+leo.Narm = require "leo.Narm"
+leo.ILoveYou_Yun = require "leo.ILoveYou_Yun" -- I love you XianYun
 
 return leo
