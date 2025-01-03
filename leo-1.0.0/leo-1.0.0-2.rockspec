@@ -1,5 +1,5 @@
 package = "leo"
-version = "1.0.0-1"
+version = "1.0.0-2"
 source = {
    url = "file:///home/astra/桌面/lua_test/leo//leo-1.0.0.tar.gz",
    tag = "v1.0.0",
