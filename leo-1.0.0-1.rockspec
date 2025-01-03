@@ -1,7 +1,7 @@
 package = "leo"
 version = "1.0.0-1"
 source = {
-   url = "https://github.com/Astra-Zhi/leo.git",
+   url = "https://github.com/Astra-Zhi/leo/archive/refs/tags/v1.0.0.zip",
    tag = "v1.0.0"
 }
 description = {
