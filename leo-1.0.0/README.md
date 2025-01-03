@@ -2,7 +2,7 @@
 
 The `leo` module provides a comprehensive set of utility functions for data processing and manipulation, including factor encoding, multidimensional array creation, data frame construction, list management, and pipeline operations. These tools are designed to simplify the data processing workflow, enhance code readability, and improve efficiency.
 
-
+in bash, use `luarocks install leo` to install this packages.
 
 ## Table of Contents
 
