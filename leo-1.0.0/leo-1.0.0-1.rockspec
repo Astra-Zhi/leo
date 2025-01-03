@@ -1,8 +1,8 @@
 package = "leo"
 version = "1.0.0-1"
 source = {
-   url = "https://github.com/Astra-Zhi/leo/archive/refs/tags/v1.0.0.zip",
-   tag = "v1.0.0"
+   url = "file:///home/astra/桌面/lua_test/leo//leo-1.0.0.tar.gz",
+   tag = "v1.0.0",
 }
 description = {
    summary = "A data processing and manipulation toolkit for Lua.",
